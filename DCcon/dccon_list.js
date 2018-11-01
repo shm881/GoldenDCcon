@@ -105,6 +105,16 @@
 	{"name":"페페싸닉.gif", 		"keywords":["페페싸닉"],						"tags":["개구리", "페페"]},
 	{"name":"페페팝콘.gif", 		"keywords":["페페팝콘"],						"tags":["개구리", "페페"]},
 
+  {"name":"칠레감동.gif", 		"keywords":["칠레감동"],						"tags":["칠레"]},
+	{"name":"칠레감탄.gif", 		"keywords":["칠레감탄"],						"tags":["칠레"]},
+	{"name":"칠레감탄2.gif", 		"keywords":["칠레감탄2"],						"tags":["칠레"]},
+	{"name":"칠레감탄3.gif", 		"keywords":["칠레감탄3"],						"tags":["칠레"]},
+	{"name":"칠레감탄4.gif", 		"keywords":["칠레감탄4"],						"tags":["칠레"]},
+	{"name":"칠레스고이.gif", 		"keywords":["칠레스고이"],						"tags":["칠레"]},
+	{"name":"칠레점프.gif", 		"keywords":["칠레점프"],						"tags":["칠레"]},
+	{"name":"핑구박수.gif", 		"keywords":["핑구박수"],						"tags":["핑구"]},
+	
+
 	{"name":"인공지능.jpg", 		"keywords":["인공지능"],						"tags":["인공지능"]},
 
 	{"name":"힘의차이.png", 		"keywords":["힘의차이"],						"tags":["선생콘"]},
