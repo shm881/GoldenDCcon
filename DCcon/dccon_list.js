@@ -8,6 +8,7 @@
 	{"name":"골뎅오우야.gif", 		"keywords":["골뎅오우야", "오우야", "ㅗㅜㅑ"],						"tags":["추골"]},
 	{"name":"골뎅자본.png", 		"keywords":["골뎅자본"],						"tags":["추골"]},
 	{"name":"골뎅딸딸.png", 		"keywords":["골뎅딸"],						"tags":["추골"]},
+	{"name":"골하.gif", 		"keywords":["골하","우리골안녕"],						"tags":["추골"]},
 
   {"name":"드라코.png", 		"keywords":["드라코"],						"tags":["뿌테"]},
 	{"name":"리스쿠마.png", 		"keywords":["리스쿠마", "쿠마"],						"tags":["뿌테"]},
@@ -113,7 +114,7 @@
 	{"name":"칠레스고이.gif", 		"keywords":["칠레스고이"],						"tags":["칠레"]},
 	{"name":"칠레점프.gif", 		"keywords":["칠레점프"],						"tags":["칠레"]},
 	{"name":"핑구박수.gif", 		"keywords":["핑구박수"],						"tags":["핑구"]},
-	
+
 
 	{"name":"인공지능.jpg", 		"keywords":["인공지능"],						"tags":["인공지능"]},
 
@@ -211,6 +212,8 @@
 	{"name":"핫산결심.gif", 		"keywords":["핫산결심", "결심"],						"tags":["핫산"]},
 
 
+  {"name":"바흐흑.png", 		"keywords":["바흐흑"],						"tags":[]},
+	{"name":"고흐흑.png", 		"keywords":["고흐흑"],						"tags":[]},
 	{"name":"DTD.png", 		"keywords":["DTD", "디티디"],						"tags":[]},
 	{"name":"pdf.png", 		"keywords":["pdf"],						"tags":[]},
 	{"name":"고오스.png", 		"keywords":["고오스"],						"tags":[]},
