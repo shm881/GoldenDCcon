@@ -13,6 +13,7 @@
 	{"name":"커뎅챤.png", 		"keywords":["커뎅챤"],						"tags":["추골"]},
 	{"name":"머뎅이.png", 		"keywords":["머뎅이"],						"tags":["추골"]},
   {"name":"궁뎅이.png", 		"keywords":["궁뎅이"],						"tags":["추골"]},
+	{"name":"테징징.jpg", 		"keywords":["테징징"],						"tags":["추골"]},
 
 
   {"name":"드라코.png", 		"keywords":["드라코"],						"tags":["뿌테"]},
@@ -60,6 +61,7 @@
   {"name":"헤으윽.png", 		"keywords":["헤으윽"],						"tags":[""]},
 	{"name":"산소답답.png", 		"keywords":["산소답답"],						"tags":["산소미"]},
 	{"name":"수동발전.png", 		"keywords":["수동발전"],						"tags":["산소미"]},
+	{"name":"야한거.png", 		"keywords":["야한거"],						"tags":[""]},
 
 	{"name":"위자드.png", 		"keywords":["위자드"],						"tags":["트리키타워"]},
 	{"name":"위자드2.png", 		"keywords":["위자드2"],						"tags":["트리키타워"]},
