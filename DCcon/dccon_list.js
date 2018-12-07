@@ -114,6 +114,13 @@
 {"name":"호렌지.gif", 		"keywords":["호렌지"],						"tags":["해축"]},
 {"name":"황가드.gif", 		"keywords":["황가드"],						"tags":["해축"]},
 {"name":"황가드2.gif", 		"keywords":["황가드2"],						"tags":["해축"]},
+{"name":"맹구.png", 		"keywords":["맹구"],						"tags":["해축"]},
+{"name":"맹시.png", 		"keywords":["맹시"],						"tags":["해축"]},
+{"name":"개집.png", 		"keywords":["개집"],						"tags":["해축"]},
+{"name":"토토애.png", 		"keywords":["토토애"],						"tags":["해축"]},
+{"name":"일일맹.png", 		"keywords":["일일맹"],						"tags":["해축"]},
+{"name":"snlr.png", 		"keywords":["snlr","에쎈풀"],						"tags":["해축"]},
+{"name":"ㄱㄴ.gif", 		"keywords":["ㄱㄴ"],						"tags":["해축"]},
 
 
 
