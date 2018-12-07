@@ -93,7 +93,7 @@
 	{"name":"호우적.gif", 		"keywords":["호우적"],						"tags":["해축"]},
 	{"name":"화남2.gif", 		"keywords":["화남2", "빡롭", "빡침"],						"tags":["해축"]},
 
-  {"name":구토".gif", 		"keywords":["구토"],						"tags":["해축"]},
+  {"name":"구토.gif", 		"keywords":["구토"],						"tags":["해축"]},
 	  {"name":"그리즈만.gif", 		"keywords":["그리즈만"],						"tags":["해축"]},
 {"name":"눕동.gif", 		"keywords":["눕동"],						"tags":["해축"]},
 {"name":"드록바.gif", 		"keywords":["드록바","드록신"],						"tags":["해축"]},
@@ -114,7 +114,7 @@
 {"name":"호렌지.gif", 		"keywords":["호렌지"],						"tags":["해축"]},
 {"name":"황가드.gif", 		"keywords":["황가드"],						"tags":["해축"]},
 {"name":"황가드2.gif", 		"keywords":["황가드2"],						"tags":["해축"]},
-  {"name":".png", 		"keywords":[""],						"tags":["해축"]},
+
 
 
 	{"name":"sss.png", 		"keywords":["sss"],						"tags":["트위치"]},
