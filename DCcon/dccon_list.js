@@ -37,6 +37,9 @@ dcConsData = [
 	{"name":"싸닉리얼.png",			    "keywords":["리얼싸닉"],	                            "tags":["ect", "싸닉"]},
 	{"name":"야인시대4딸라.png",			    "keywords":["사딸라", "4딸라"],	                            "tags":["ect", "심영"]},
 	{"name":"야인시대오케이.png",			    "keywords":["오케이", "오케이땡큐"],	                            "tags":["ect", "심영"]},
+	{"name":"상하이조.gif",			    "keywords":["상하이조"],	                            "tags":["ect", "심영"]},
+	{"name":"심영폭발.gif",			    "keywords":["폭발"],	                            "tags":["ect", "심영"]},
+	{"name":"심영연막.gif",			    "keywords":["연막"],	                            "tags":["ect", "심영"]},
 	{"name":"캐피탈노예일해.png",			    "keywords":["일해", "노예일해"],	                            "tags":["ect", "캐피탈"]},
 	{"name":"캐피탈이지붐.png",			    "keywords":["이지붐"],	                            "tags":["ect", "캐피탈"]},
 	{"name":"캐피탈파산.png",			    "keywords":["파산"],	                            "tags":["ect", "캐피탈"]},
@@ -48,6 +51,14 @@ dcConsData = [
 	{"name":"핫산발상.png",			    "keywords":["핫산발상"],	                            "tags":["ect", "핫산콘"]},
 	{"name":"핫산쾅.png",			    "keywords":["핫산쾅"],	                            "tags":["ect", "핫산콘"]},
 	{"name":"핫산펑.png",			    "keywords":["핫산펑"],	                            "tags":["ect", "핫산콘"]},
+	{"name":"우리핵안녕.gif",			    "keywords":["우리핵안녕"],	                            "tags":["ect", "우리핵"]},
+	{"name":"우리핵빵야.gif",			    "keywords":["우리핵빵야"],	                            "tags":["ect", "우리핵"]},
+	{"name":"우리핵드럼.gif",			    "keywords":["우리핵드럼"],	                            "tags":["ect", "우리핵"]},
+	{"name":"우리핵박수.gif",			    "keywords":["우리핵박수", "우리핵박수1"],	                            "tags":["ect", "우리핵"]},
+	{"name":"우리핵박수2.gif",			    "keywords":["우리핵박수2"],	                            "tags":["ect", "우리핵"]},
+	{"name":"우리핵박수3.gif",			    "keywords":["우리핵박수3"],	                            "tags":["ect", "우리핵"]},
+	{"name":"우리핵아닌데.gif",			    "keywords":["우리핵아닌데"],	                            "tags":["ect", "우리핵"]},
+	{"name":"스탈린머쓱.gif",			    "keywords":["스탈린머쓱"],	                            "tags":["ect"]},
 
 	{"name":"페페갑분싸.gif",			    "keywords":["페페갑분싸", "갑분싸"],	                            "tags":["개구리콘", "페페콘"]},
 	{"name":"페페검색.png",			    "keywords":["페페검색", "페페탐색"],	                            "tags":["개구리콘", "페페콘"]},
@@ -233,5 +244,13 @@ dcConsData = [
 	{"name":"흠.png",			    "keywords":["흠", "흠1"],	                            "tags":["흠모티콘"]},
 	{"name":"흠2.png",			    "keywords":["흠2"],	                            "tags":["흠모티콘"]},
 	{"name":"흠많무.gif",			    "keywords":["흠많무", "왜곡흠"],	                            "tags":["흠모티콘"]},
-	{"name":"흠좀무.gif",			    "keywords":["흠좀무"],	                            "tags":["흠모티콘"]}
+	{"name":"흠좀무.gif",			    "keywords":["흠좀무"],	                            "tags":["흠모티콘"]},
+
+	{"name":"대공.gif",			    "keywords":["대공", "대공1", "머공", "머공1"],	                            "tags":["워썬더", "게파드콘"]},
+	{"name":"대공2.gif",			    "keywords":["대공2", "머공2"],	                            "tags":["워썬더", "게파드콘"]},
+	{"name":"대공3.gif",			    "keywords":["대공3", "머공3"],	                            "tags":["워썬더", "게파드콘"]},
+	{"name":"대공레다회전.gif",			    "keywords":["레이더회전", "레다회전"],	                            "tags":["워썬더", "게파드콘"]},
+	{"name":"대공런.gif",			    "keywords":["대공런", "머공런"],	                            "tags":["워썬더", "게파드콘"]},
+	{"name":"대공뇌회전.gif",			    "keywords":["대공뇌회전", "대공두뇌회전", "머공뇌회전", "머공두뇌회전"],	                            "tags":["워썬더", "게파드콘"]}
+
 ];
