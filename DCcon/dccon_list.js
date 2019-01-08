@@ -42,7 +42,7 @@ dcConsData = [
 	{"name":"심영연막.gif",			    "keywords":["연막"],	                            "tags":["ect", "심영"]},
 	{"name":"캐피탈노예일해.png",			    "keywords":["일해", "노예일해"],	                            "tags":["ect", "캐피탈"]},
 	{"name":"캐피탈이지붐.png",			    "keywords":["이지붐"],	                            "tags":["ect", "캐피탈"]},
-	{"name":"캐피탈파산.png",			    "keywords":["파산"],	                            "tags":["ect", "캐피탈"]},
+	{"name":"캐피탈퍄산.png",			    "keywords":["파산"],	                            "tags":["ect", "캐피탈"]},
 	{"name":"캐피탈폴짝.png",			    "keywords":["폴짝"],	                            "tags":["ect", "캐피탈"]},
 	{"name":"팝콘.gif",			    "keywords":["팝콘"],	                            "tags":["ect", "팝콘"]},
 	{"name":"하스깜짝.gif",			    "keywords":["하스깜짝"],	                            "tags":["ect", "하스스톤"]},
@@ -165,23 +165,27 @@ dcConsData = [
 	{"name":"흑우.png",			    "keywords":["흑우", "손절"],	                            "tags":["브붕콘"]},
 	{"name":"힘의차이.png",			    "keywords":["힘의차이"],	                            "tags":["브붕콘"]},
 
-	{"name":"갈아입어.png",			    "keywords":["갈아입어", "참피기달"],	                            "tags":["참피콘"]},
-	{"name":"공원수호자.png",			    "keywords":["공원수호자"],	                            "tags":["참피콘"]},
+	{"name":"갈아입어.gif",			    "keywords":["갈아입어", "참피기달"],	                            "tags":["참피콘"]},
+	{"name":"공원수호자.png",			    "keywords":["공원수호자", "공원수호자1"],	                            "tags":["참피콘"]},
+	{"name":"공원수호자2.gif",			    "keywords":["공원수호자2"],	                            "tags":["참피콘"]},
 	{"name":"기상.gif",			    "keywords":["기상", "참피기상"],	                            "tags":["참피콘"]},
 	{"name":"데스앗.png",			    "keywords":["데스앗"],	                            "tags":["참피콘"]},
 	{"name":"도망.png",			    "keywords":["도망", "참피도망"],	                            "tags":["참피콘"]},
 	{"name":"때앵.png",			    "keywords":["때앵"],	                            "tags":["참피콘"]},
 	{"name":"레후.png",			    "keywords":["레후"],	                            "tags":["참피콘"]},
 	{"name":"무상.png",			    "keywords":["무상", "무상1"],	                            "tags":["참피콘"]},
-	{"name":"무상2.png",			    "keywords":["무상2"],	                            "tags":["참피콘"]},
+	{"name":"무상2.gif",			    "keywords":["무상2"],	                            "tags":["참피콘"]},
 	{"name":"미도리.png",			    "keywords":["미도리", "고마워미도리"],	                            "tags":["참피콘"]},
-	{"name":"분충.png",			    "keywords":["분충"],	                            "tags":["참피콘"]},
+	{"name":"분충.gif",			    "keywords":["분충"],	                            "tags":["참피콘"]},
 	{"name":"붕쯔붕쯔.png",			    "keywords":["붕쯔붕쯔"],	                            "tags":["참피콘"]},
 	{"name":"일어서는.png",			    "keywords":["일어서", "참피일어서"],	                            "tags":["참피콘"]},
-	{"name":"질림.png",			    "keywords":["질림", "참피질림", "질렸다"],	                            "tags":["참피콘"]},
+	{"name":"질림.gif",			    "keywords":["질림", "참피질림", "질렸다"],	                            "tags":["참피콘"]},
 	{"name":"추진력.png",			    "keywords":["추진력", "참피추진력"],	                            "tags":["참피콘"]},
 	{"name":"쿠이쿠이.png",			    "keywords":["쿠이쿠이"],	                            "tags":["참피콘"]},
 	{"name":"파킨.png",			    "keywords":["파킨"],	                            "tags":["참피콘"]},
+	{"name":"닝겐상.gif",			    "keywords":["닝겐상"],	                            "tags":["참피콘"]},
+	{"name":"왔다구.gif",			    "keywords":["왔다구"],	                            "tags":["참피콘"]},
+	{"name":"뺑뺑이.gif",			    "keywords":["뺑뺑이"],	                            "tags":["참피콘"]},
 
 	{"name":"공중제비.gif",			    "keywords":["공중제비", "공중제비1"],	                            "tags":["톰과제리콘"]},
 	{"name":"공중제비2.gif",			    "keywords":["공중제비2"],	                            "tags":["톰과제리콘"]},
@@ -237,6 +241,7 @@ dcConsData = [
 	{"name":"핑구허리놀림.gif",			    "keywords":["핑구허리놀림", "핑구허리놀림1"],	                            "tags":["핑구콘"]},
 	{"name":"핑구허리놀림2.gif",			    "keywords":["핑구허리놀림2"],	                            "tags":["핑구콘"]},
 	{"name":"핑구혼란.gif",			    "keywords":["핑구혼란"],	                            "tags":["핑구콘"]},
+	{"name":"핑구절레.gif",			    "keywords":["핑구절레", "핑구아닌데"],	                            "tags":["핑구콘"]},
 
 	{"name":"믛.png",			    "keywords":["믛", "반전흠"],	                            "tags":["흠모티콘"]},
 	{"name":"붕괴흠.gif",			    "keywords":["붕괴흠"],	                            "tags":["흠모티콘"]},
@@ -251,6 +256,10 @@ dcConsData = [
 	{"name":"대공3.gif",			    "keywords":["대공3", "머공3"],	                            "tags":["워썬더", "게파드콘"]},
 	{"name":"대공레다회전.gif",			    "keywords":["레이더회전", "레다회전"],	                            "tags":["워썬더", "게파드콘"]},
 	{"name":"대공런.gif",			    "keywords":["대공런", "머공런"],	                            "tags":["워썬더", "게파드콘"]},
-	{"name":"대공뇌회전.gif",			    "keywords":["대공뇌회전", "대공두뇌회전", "머공뇌회전", "머공두뇌회전"],	                            "tags":["워썬더", "게파드콘"]}
+	{"name":"대공뇌회전.gif",			    "keywords":["대공뇌회전", "대공두뇌회전", "머공뇌회전", "머공두뇌회전"],	                            "tags":["워썬더", "게파드콘"]},
+
+  {"name":"댄싱제노1.gif",   	        "keywords":["댄싱제노", "댄싱제노1"], 							"tags":["동물콘"]},
+  {"name":"댄싱제노2.gif",   	        "keywords":["댄싱제노2"], 							"tags":["동물콘"]},
+  {"name":"댄싱제노3.gif",   	        "keywords":["댄싱제노3"], 							"tags":["동물콘"]}
 
 ];
